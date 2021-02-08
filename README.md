@@ -1,5 +1,5 @@
 # Yakuza-PAR-py
-An incomplete rewrite of Kaplas80's ParManager in python.
+An incomplete rewrite of Kaplas80's [ParManager](https://github.com/Kaplas80/ParManager) in python.
 
 Can only list and extract PARs, no support for extracting nested PARs, and no rebuilding. This was made to be integrated into other python modules for extraction, though it can still be used as a CLI application.
 
